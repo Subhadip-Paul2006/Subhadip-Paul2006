@@ -170,15 +170,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=soumyachk101&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170px"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyachk101&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip-Paul2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170px"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=soumyachk101&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Subhadip-Paul2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyachk101&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa22&hide_border=true&custom_title=Contribution+Timeline" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhadip-Paul2006&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa22&hide_border=true&custom_title=Contribution+Timeline" width="96%"/>
 
 <br/><br/>
 
@@ -192,39 +192,6 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      TROPHIES                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0221&height=3"/>
-
-<br/>
-
-<div align="center">
-
-## GitHub Trophies
-
-<br/>
-
-![](https://img.shields.io/badge/A+%20Grade-GitHub%20Stats-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/Multi--Language-Developer-f472b6?style=for-the-badge&logo=code&logoColor=white&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/Full--Stack-Engineer-38bdf8?style=for-the-badge&logo=layers&logoColor=white&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/Open--Source-Contributor-34d399?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0221)
-
-<br/>
-
-![](https://img.shields.io/badge/Cloud--Native-Builder-fb923c?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/UI%2FUX-Thinker-facc15?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/Always-Learning-e879f9?style=for-the-badge&logo=bookopen&logoColor=white&labelColor=0d0221)
-
-</div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION SNAKE                      -->
