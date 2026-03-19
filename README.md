@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-# Soumya Chakraborty
+# Subhadip Paul
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=a78bfa&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+B.Tech+3rd+Year;MERN+%7C+Next.js+%7C+Django+%7C+TypeScript;Building+real+products+from+scratch;West+Bengal%2C+India" />
 
@@ -57,12 +57,11 @@
 ```yaml
   PROFILE
   ─────────────────────────────────────
-  Name       :  Soumya Chakraborty
+  Name       :  Subhadip Paul
   Location   :  West Bengal, India
   Degree     :  B.Tech — 3rd Year
   Role       :  Full-Stack Developer
-  Portfolio  :  chksoumya.in
-  Contact    :  soumya.chk101@gmail.com
+  Contact    :  sunhadippaul.06@zohomail.in
 ```
 
 </td>
@@ -72,7 +71,7 @@
   RIGHT NOW
   ─────────────────────────────────────
   Building   :  Full-Stack Web Apps
-  Learning   :  TypeScript · System Design
+  Learning   :  TensorFlow · System Design
   Seeking    :  Open-source Collaborations
   Stack      :  MERN · Next.js · Django
   Fuel       :  Coffee × Curiosity
@@ -104,27 +103,7 @@
 
 <br/>
 
-### Connect
 
-<a href="https://chksoumya.in">
-  <img src="https://img.shields.io/badge/Portfolio-0d0221?style=for-the-badge&logo=firefox&logoColor=a78bfa"/>
-</a>
-<a href="mailto:soumya.chk101@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://instagram.com/soumya_chk">
-  <img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-<a href="https://facebook.com/soumya_chk">
-  <img src="https://img.shields.io/badge/Facebook-0d0221?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
-</a>
-<a href="https://reddit.com/user/soumya_chk">
-  <img src="https://img.shields.io/badge/Reddit-0d0221?style=for-the-badge&logo=reddit&logoColor=FF4500"/>
-</a>
-
-</div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                     TECH STACK                           -->
@@ -142,25 +121,25 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,c++,python,js,ts &theme=dark&perline=6"/>
 
 <br/><br/>
 
 **Frameworks & Runtime**
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,django,bootstrap&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,bootstrap&theme=dark&perline=5"/>
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark&perline=3"/>
 
 <br/><br/>
 
 **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,netlify,vscode,figma&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,netlify,vscode,figma,spline&theme=dark&perline=8"/>
 
 <br/><br/>
 
