@@ -12,11 +12,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=soumyachk101&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Subhadip-Paul2006&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
-<a href="https://github.com/soumyachk101"><img src="https://img.shields.io/github/followers/soumyachk101?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=FOLLOWERS"/></a>
+<a href="https://github.com/Subhadip-Paul2006"><img src="https://img.shields.io/github/followers/Subhadip-Paul2006?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=FOLLOWERS"/></a>
 &nbsp;
-<a href="https://github.com/soumyachk101"><img src="https://img.shields.io/github/stars/soumyachk101?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=STARS"/></a>
+<a href="https://github.com/Subhadip-Paul2006"><img src="https://img.shields.io/github/stars/Subhadip-Paul2006?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=STARS"/></a>
 
 </div>
 
@@ -139,7 +139,7 @@
 
 **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,netlify,vscode,figma,spline&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,netlify,vscode,figma&theme=dark&perline=8"/>
 
 <br/><br/>
 
@@ -168,7 +168,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumyachk101&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Subhadip-Paul2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170px"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip-Paul2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170px"/>
 
