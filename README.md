@@ -182,11 +182,11 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyachk101&theme=tokyonight" height="165px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhadip-Paul2006&theme=tokyonight" height="165px"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumyachk101&theme=tokyonight" height="165px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subhadip-Paul2006&theme=tokyonight" height="165px"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumyachk101&theme=tokyonight" height="165px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhadip-Paul2006&theme=tokyonight" height="165px"/>
 
 </div>
 
@@ -208,9 +208,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip-Paul2006/Subhadip-Paul2006/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip-Paul2006/Subhadip-Paul2006/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Subhadip-Paul2006/Subhadip-Paul2006/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyachk101/soumyachk101/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyachk101/soumyachk101/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/soumyachk101/soumyachk101/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <br/>
