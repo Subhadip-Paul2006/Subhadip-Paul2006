@@ -61,7 +61,7 @@
   Location   :  West Bengal, India
   Degree     :  B.Tech — 3rd Year
   Role       :  Full-Stack Developer
-  Contact    :  sunhadippaul.06@zohomail.in
+  Contact    :  subhadippaul.06@zohomail.in
 ```
 
 </td>
@@ -121,7 +121,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind,js,ts&theme=dark&perline=5"/>
 
 <br/><br/>
 
