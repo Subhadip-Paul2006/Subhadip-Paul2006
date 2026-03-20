@@ -121,7 +121,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,python,js,ts &theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark&perline=5"/>
 
 <br/><br/>
 
