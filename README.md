@@ -74,6 +74,7 @@
   Learning   :  TensorFlow · System Design
   Seeking    :  Open-source Collaborations
   Stack      :  MERN · Next.js · Django
+  Side Quest :  Painting & Novels
   Fuel       :  Novels × Curiosity
 ```
 
