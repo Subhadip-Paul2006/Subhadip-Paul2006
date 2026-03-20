@@ -128,7 +128,7 @@
 
 **Frameworks & Runtime**
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,express,django,rest,flask,bootstrap&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,express,django,restapi,flask,bootstrap&theme=dark&perline=5"/>
 
 <br/><br/>
 
