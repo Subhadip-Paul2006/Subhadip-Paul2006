@@ -122,7 +122,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind,js,ts,kotlin&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind,js,ts,kotlin&theme=dark&perline=7"/>
 
 <br/><br/>
 
