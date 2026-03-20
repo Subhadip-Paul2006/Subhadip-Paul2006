@@ -74,7 +74,7 @@
   Learning   :  TensorFlow · System Design
   Seeking    :  Open-source Collaborations
   Stack      :  MERN · Next.js · Django
-  Fuel       :  Coffee × Curiosity
+  Fuel       :  Novels × Curiosity
 ```
 
 </td>
