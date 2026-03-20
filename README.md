@@ -36,7 +36,7 @@
 
 <br/>
 
-<img src="https://github.com/soumyachk101.png" width="150" style="border-radius:50%;"/>
+<img src="https://github.com/subhadip-paul-2006.png" width="150" style="border-radius:50%;"/>
 
 <br/><br/>
 
