@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Developer+%7C+B.Tech+3rd+Year;+Building+cool+things+with+MERN+%2B+Postgres;+Open+to+collabs+%26+opportunities;☕A+Powered+by+coffee+%2B+curiosity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Developer+%7C+B.Tech+3rd+Year;+Building+cool+things+with+MERN+%2B+Postgres;+Open+to+collabs+%26+opportunities;☕A+Powered+by+Novels+%2B+curiosity" />
 
 <br/><br/>
 
