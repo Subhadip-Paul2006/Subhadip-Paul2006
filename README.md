@@ -116,7 +116,7 @@
 
 <h3>Hackathons</h3>
 
-![HackTropica 2K26](https://img.shields.io/badge/HackTropica_2K26-Attended-a78bfa?style=for-the-badge&labelColor=0d0221&logo=buffer&logoColor=white)
+![HackTropica 2K26](https://img.shields.io/badge/HackTropica_2K26-Finalist-a78bfa?style=for-the-badge&labelColor=0d0221&logo=buffer&logoColor=white)
 
 <br/>
 
