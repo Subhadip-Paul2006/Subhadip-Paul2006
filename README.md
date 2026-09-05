@@ -1,270 +1,342 @@
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      HEADER                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,40:1a0533,70:0d1b4b,100:001233&height=200&section=header&text=SUBHADIP%20PAUL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20✦%20Builder&descSize=17&descColor=a78bfa&descAlignY=78"/>
+<!-- ========================================================= -->
+<!--                    SUBHADIP PAUL                          -->
+<!--        GitHub Profile README · Network × ML × Security   -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=SUBHADIP%20PAUL&fontSize=58&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=NETWORKING%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20SECURITY%20%C2%B7%20BUILDING&descSize=17&descColor=c9d1d9&descAlignY=68"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Developer+%7C+B.Tech+3rd+Year;+Building+cool+things+with+MERN+%2B+Postgres;+Open+to+collabs+%26+opportunities;☕A+Powered+by+Novels+%2B+curiosity" />
+<br>
 
-<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Networking+Enthusiast;Machine+Learning+Explorer;Security+Tool+Builder;Hackathon+Builder;Learning+by+Building+%F0%9F%9A%80"/>
 
-<img src="https://komarev.com/ghpvc/?username=Subhadip-Paul2006&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
+<br><br>
+
+<a href="https://github.com/Subhadip-Paul2006">
+<img src="https://komarev.com/ghpvc/?username=Subhadip-Paul2006&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
+</a>
+
 &nbsp;
-<a href="https://github.com/Subhadip-Paul2006"><img src="https://img.shields.io/github/followers/Subhadip-Paul2006?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=FOLLOWERS"/></a>
+
+<a href="https://github.com/Subhadip-Paul2006">
+<img src="https://img.shields.io/github/followers/Subhadip-Paul2006?style=for-the-badge&color=1f6feb&label=FOLLOWERS"/>
+</a>
+
 &nbsp;
-<a href="https://github.com/Subhadip-Paul2006"><img src="https://img.shields.io/github/stars/Subhadip-Paul2006?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=STARS"/></a>
+
+<a href="https://github.com/Subhadip-Paul2006?tab=repositories">
+<img src="https://img.shields.io/github/stars/Subhadip-Paul2006?style=for-the-badge&color=58a6ff&label=STARS"/>
+</a>
 
 </div>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
-
-<br/>
-
-<div align="center">
-
-## Who Am I
-
-<br/>
-
-<img src="https://github.com/Subhadip-Paul2006.png" width="150" style="border-radius:50%;"/>
-
-<br/><br/>
-
-# Subhadip Paul
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=a78bfa&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+B.Tech+3rd+Year;MERN+%7C+Next.js+%7C+Django+%7C+TypeScript;Building+real+products+from+scratch;West+Bengal%2C+India" />
-
-<br/>
+<br>
 
 ---
 
-<br/>
+# <samp>$ whoami</samp>
 
-<table border="0" cellspacing="0" cellpadding="12">
+<table width="100%">
 <tr>
-<td align="left" valign="top" width="340">
 
-```yaml
-  PROFILE
-  ─────────────────────────────────────
-  Name       :  Subhadip Paul
-  Location   :  West Bengal, India
-  Degree     :  B.Tech — 3rd Year
-  Role       :  Full-Stack Developer
-  Contact    :  subhadippaul.06@zohomail.in
+<td width="62%" valign="top">
+
+```text
+Name        : Subhadip Paul
+Role        : B.Tech CSE Student
+Location    : West Bengal, India
+
+Primary Focus
+────────────────────────────────────
+→ Computer Networking
+→ Machine Learning
+→ Security Tools
+→ Backend / Systems
+→ Full-Stack Development
+
+Currently
+────────────────────────────────────
+→ Building
+→ Experimenting
+→ Learning
+→ Participating in Hackathons
 ```
 
-</td>
-<td align="left" valign="top" width="340">
+<br>
 
-```yaml
-  RIGHT NOW
-  ─────────────────────────────────────
-  Building   :  Full-Stack Web Apps
-  Learning   :  TensorFlow · System Design
-  Seeking    :  Open-source Collaborations
-  Stack      :  MERN · Next.js · Django
-  Side Quest :  Painting & Novels
-  Fuel       :  Novels × Curiosity
-```
+I'm a Computer Science student who enjoys understanding how things work
+under the hood and then turning that understanding into something usable.
 
-</td>
-</tr>
-</table>
+My current interests sit around Networking, Machine Learning,
+Security tooling and software engineering.
 
-<br/>
+I like building small systems, experimenting with ideas, joining hackathons,
+and learning by actually shipping things.
 
----
+</td> <td width="38%" align="center" valign="middle"> <img src="https://user-images.githubusercontent.com/74038190/212257467-2b6f7d9d-1dd4-4c1d-b1e7-1a7dc4c3f6f0.gif" width="320"/>
 
-<br/>
+<br><br>
 
-**I build** things that live on the internet — clean, fast, and purposeful.
-**I think** deeply about UX before writing a single line of code.
-**I believe** the best code reads like plain English.
-
-<br/>
-
-![](https://img.shields.io/badge/Problem%20Solver-a78bfa?style=for-the-badge&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/UI%2FUX%20Thinker-f472b6?style=for-the-badge&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/Open%20Source%20Fan-38bdf8?style=for-the-badge&labelColor=0d0221)
-&nbsp;
-![](https://img.shields.io/badge/Always%20Learning-fb923c?style=for-the-badge&labelColor=0d0221)
-
-<br/>
-
-
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0221&height=3"/>
-
-<br/>
-
-<h3>Hackathons</h3>
-
-![HackTropica 2K26](https://img.shields.io/badge/HackTropica_2K26-Finalist-a78bfa?style=for-the-badge&labelColor=0d0221&logo=buffer&logoColor=white)<br>
-![Code For Change 2K26](https://img.shields.io/badge/Code_For_Change_2.0-Finalist-a78bfa?style=for-the-badge&labelColor=0d0221&logo=buffer&logoColor=white)
-
-<br/>
-
+SYSTEM STATUS
+──────────────────
+[ OK ] NETWORKING
+[ OK ] ML
+[ OK ] SECURITY
+[ OK ] BUILDING
+[ OK ] LEARNING
+</td> </tr> </table>
+<samp>$ cat ~/focus.txt</samp>
 <div align="center">
+🌐 Networking	🤖 Machine Learning	🛡️ Security
+TCP/IP	Data Analysis	Security Tools
+HTTP / DNS	ML Algorithms	Network Security
+Sockets	Model Building	Defensive Utilities
+Packet Analysis	Prediction	Security Experiments
+</div> <br>
+<samp>$ ./current_focus</samp>
+┌─────────────────────────────────────────────────────────────┐
+│                    CURRENT DEVELOPMENT                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🌐 NETWORKING        ███████████████████░░░                │
+│  🤖 MACHINE LEARNING  █████████████████░░░░                │
+│  🛡️ SECURITY TOOLS    ████████████████░░░░░                │
+│  ⚙️ BACKEND SYSTEMS   ███████████████░░░░░░                │
+│  🚀 HACKATHON BUILDS  ████████████████████                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-## Tech Stack
+Building, breaking, learning, rebuilding.
 
-<br/>
+<samp>$ ls ~/projects</samp>
+<br> <table width="100%"> <tr> <td width="49%" valign="top">
+🛡️ Security Project
 
-**Languages**
+Project Name
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind,js,ts,kotlin&theme=dark&perline=7"/>
+Short explanation of the problem this project solves.
 
-<br/><br/>
+What it does
 
-**Frameworks & Runtime**
+Security / network related functionality
+Useful technical implementation
+Practical experimentation
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,express,django,flask,bootstrap&theme=dark&perline=7"/>
+Python Networking Security
 
-<br/><br/>
+<a href="#"> <img src="https://img.shields.io/badge/-VIEW%20PROJECT-161b22?style=for-the-badge&logo=github&logoColor=58a6ff"/> </a> </td> <td width="2%"></td> <td width="49%" valign="top">
+🌐 Networking Project
 
-**Databases**
+Project Name
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark&perline=5"/>
+A project focused on understanding or working with networks.
 
-<br/><br/>
+What it does
 
-**Cloud, DevOps & Tools**
+Network communication
+Protocol / socket experimentation
+Network analysis
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,netlify,vscode,figma&theme=dark&perline=8"/>
+Python Sockets TCP/IP
 
-<br/><br/>
+<a href="#"> <img src="https://img.shields.io/badge/-VIEW%20PROJECT-161b22?style=for-the-badge&logo=github&logoColor=58a6ff"/> </a> </td> </tr> <tr> <td colspan="3" height="18"></td> </tr> <tr> <td width="49%" valign="top">
+🤖 Machine Learning
 
-**Data & Testing**
+Project Name
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+ML project focused on prediction, analysis or experimentation.
 
-</div>
+What it does
 
-<br/>
+Data preprocessing
+Feature engineering
+Model training
+Evaluation
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
+Python NumPy Pandas Scikit--learn
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
+<a href="#"> <img src="https://img.shields.io/badge/-VIEW%20PROJECT-161b22?style=for-the-badge&logo=github&logoColor=58a6ff"/> </a> </td> <td width="2%"></td> <td width="49%" valign="top">
+⚙️ Developer Tool
 
-<br/>
+Project Name
 
+A utility/tool built to solve a practical developer problem.
+
+What it does
+
+Automation
+CLI / backend functionality
+Developer workflow improvement
+
+Python Node.js Git
+
+<a href="#"> <img src="https://img.shields.io/badge/-VIEW%20PROJECT-161b22?style=for-the-badge&logo=github&logoColor=58a6ff"/> </a> </td> </tr> </table> <br> <div align="center"> <a href="https://github.com/Subhadip-Paul2006?tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-1f6feb?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<samp>$ cat ~/hackathons.log</samp>
+🏆 Hackathon Archive
+
+7 Hackathons · Multiple builds · Lots of shipping under pressure
+
+<br>
+┌────────────────────────────────────────────────────────────┐
+│                     HACKATHON LOG                          │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  [01] ████████████████████████████████████                 │
+│       HACKATHON NAME                                      │
+│       Result  → FINALIST / PARTICIPANT / WINNER           │
+│       Project → PROJECT NAME                              │
+│       Role    → ROLE                                      │
+│                                                            │
+│  [02] ████████████████████████████████████                 │
+│       HACKATHON NAME                                      │
+│       Result  → ...                                       │
+│       Project → ...                                       │
+│                                                            │
+│  [03] ████████████████████████████████████                 │
+│       HACKATHON NAME                                      │
+│       Result  → ...                                       │
+│       Project → ...                                       │
+│                                                            │
+│  [04] ████████████████████████████████████                 │
+│       HACKATHON NAME                                      │
+│       Result  → ...                                       │
+│       Project → ...                                       │
+│                                                            │
+│  [05] ████████████████████████████████████                 │
+│       HACKATHON NAME                                      │
+│       Result  → ...                                       │
+│       Project → ...                                       │
+│                                                            │
+│  [06] ████████████████████████████████████                 │
+│       HACKATHON NAME                                      │
+│       Result  → ...                                       │
+│       Project → ...                                       │
+│                                                            │
+│  [07] ████████████████████████████████████                 │
+│       HACKATHON NAME                                      │
+│       Result  → ...                                       │
+│       Project → ...                                       │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+<br>
+🚀 Hackathon Philosophy
+IDEA
+ ↓
+PROBLEM
+ ↓
+ARCHITECTURE
+ ↓
+BUILD
+ ↓
+BREAK
+ ↓
+FIX
+ ↓
+DEMO
+<samp>$ cat ~/tech-stack.json</samp>
+🧠 Tech Arsenal
+Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,kotlin&theme=dark&perline=6"/> </p>
+Web & Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind&theme=dark&perline=7"/> </p>
+Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark&perline=4"/> </p>
+Networking / Systems / Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode&theme=dark&perline=6"/> </p>
+Data / ML
+<p align="center"> <img src="https://skillicons.dev/icons?i=python&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557A?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </p>
+<samp>$ ./security-lab</samp>
+🛡️ Security & Networking Lab
+┌──────────────────────────────────────────────────────┐
+│                 SECURITY LAB                         │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  🔎 Network Scanning          [ EXPERIMENTING ]      │
+│  📡 Packet Analysis           [ EXPERIMENTING ]      │
+│  🔐 Authentication            [ LEARNING ]           │
+│  🧪 Security Utilities        [ BUILDING ]           │
+│  🌐 Network Programming       [ LEARNING ]           │
+│  🛡️ Defensive Tooling         [ BUILDING ]           │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+
+Small tools. Practical experiments. Stronger understanding.
+
+<samp>$ git log --stats</samp>
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Subhadip-Paul2006&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="180"/>
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip-Paul2006&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Subhadip-Paul2006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff" width="75%"/> </div>
+<samp>$ git activity --graph</samp>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhadip-Paul2006&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="96%"/> </div>
+<samp>$ ./contributions</samp>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Subhadip-Paul2006/Subhadip-Paul2006/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/> </div>
+<samp>$ neofetch</samp>
 <div align="center">
-
-## GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Subhadip-Paul2006&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa&include_all_commits=true&count_private=true&rank_icon=github" height="170px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip-Paul2006&layout=compact&langs_count=6&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=ffffff" height="170px"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Subhadip-Paul2006&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&sideNums=ffffff&currStreakNum=f472b6" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhadip-Paul2006&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa22&hide_border=true&custom_title=Contribution+Timeline" width="96%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhadip-Paul2006&theme=tokyonight" height="165px"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subhadip-Paul2006&theme=tokyonight" height="165px"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhadip-Paul2006&theme=tokyonight" height="165px"/>
-
+       .--.                 subhadip@github
+      |o_o |                -----------------
+      |:_/ |                OS        : Linux / Windows
+     //   \ \               Shell     : Bash
+    (|     | )              Editor    : VS Code
+   /'\_   _/`\              Focus     : Networking
+   \___)=(___/                        Machine Learning
+                                      Security
+                                      Systems
 </div>
+<samp>$ cat ~/currently-building.md</samp>
+🔭 Currently Building
+🌐 Networking
+   └─ Learning network programming, protocols and packet behaviour
 
-<br/>
+🤖 Machine Learning
+   └─ Building practical ML experiments and prediction systems
 
+🛡️ Security
+   └─ Developing small defensive/security-focused utilities
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                      -->
-<!-- ══════════════════════════════════════════════════════════ -->
+⚙️ Software Engineering
+   └─ Improving backend architecture and system design
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
+🏆 Hackathons
+   └─ Turning ideas into working prototypes under time pressure
+<samp>$ cat ~/roadmap.txt</samp>
+🗺️ Learning Roadmap
+Networking
+    ↓
+Advanced Networking
+    ↓
+Network Security
+    ↓
+Security Engineering
 
-<br/>
+Machine Learning
+    ↓
+Deep Learning
+    ↓
+Applied ML Systems
+    ↓
+AI Engineering
 
-<div align="center">
+Software Engineering
+    ↓
+Backend Architecture
+    ↓
+Distributed Systems
+<samp>$ echo $OPEN_TO</samp>
+🤝 Open To
+✓ Open Source Collaboration
+✓ Hackathon Teams
+✓ Interesting Side Projects
+✓ Networking / Security Experiments
+✓ ML Projects
+✓ Learning with other builders
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&text=BUILD.%20LEARN.%20BREAK.%20REBUILD.&fontSize=28&fontColor=58a6ff&animation=fadeIn&fontAlignY=55"/> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=8B949E&center=true&vCenter=true&width=700&lines=Exploring+systems+one+project+at+a+time.;Networking+%C3%97+ML+%C3%97+Security;Always+building+something."/>
 
-## Contribution Snake
+<br><br>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyachk101/soumyachk101/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyachk101/soumyachk101/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/soumyachk101/soumyachk101/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<br/>
-
-> **To activate the snake:** Go to your repo → **Actions** tab → click **"Generate Snake"** → **"Run workflow"** → Done!
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   DEV QUOTE                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0221&height=3"/>
-
-<br/>
-
-<div align="center">
-
-## Dev Quote
-
-<br/>
-
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
-
-<br/>
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> — **Martin Fowler**
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:001233,40:0d1b4b,70:1a0533,100:0d0221&height=150&section=footer&text=Let%27s%20build%20together%20🚀&fontSize=32&fontColor=a78bfa&animation=fadeIn&fontAlignY=55&desc=soumya.chk101%40gmail.com%20·%20chksoumya.in&descSize=14&descColor=ffffff&descAlignY=78"/>
-
-<div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=2000&color=a78bfa&center=true&vCenter=true&width=500&lines=Open+to+opportunities+%26+collaborations+✦;Let%27s+build+something+extraordinary+together+✨"/>
-
-</div>
+<a href="https://github.com/Subhadip-Paul2006"> <img src="https://img.shields.io/badge/GitHub-Subhadip--Paul2006-161b22?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> ```
