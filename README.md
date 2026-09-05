@@ -312,46 +312,45 @@ A data-driven project focused on modeling, storage, and efficient retrieval.
 <br>
 
 ```
-┌────────────────────────────────────────────────────────────┐
+┌───────────────────────────────────────────────-─────────────┐
 │                     HACKATHON LOG                           │
-├────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] ████████████████████████████████████                 │
+├──────────────────────────────────────────────-──────────────┤
+│                                                             │
+│  [01] ████████████████████████████████████                  │
+│       HackTropica 2k26                                      │
+│       Result  → FINALIST                                    │
+│       Project → Phygital Trace                              │
+│       Role    → ML Developer                                │
+│                                                             │
+│  [02] ████████████████████████████████████                  │
+│       TECHOVATIVE                                           │
+│       Result  → FINALIST                                    │
+│       Project → Offline Multimodal Rag                      │
+│       Role    → ML Developer                                │
+│                                                             │
+│  [03] ████████████████████████████████████                  │
+│       Code For Change 2.0                                   │
+│       Result  → FINALIST                                    │
+│       Project → NEETI AI                                    │
+│       Role    → ML Developer                                │
+│                                                             │
+│  [04] ████████████████████████████████████                  │
+│       Bharat Antariksh Hackathon                            │
+│       Result  → PARTICIPANT                                 │
+│       Project → Prithibi AI                                 │
+│                                                             │
+│  [05] ████████████████████████████████████                  │
+│       CITADLE 1.0                                           │
+│       Result  → Finalist                                    │
+│       Project → Dhristi AI                                  │
+│       Role    → Network Engineer                            │
+│                                                             │
+│  [06] ████████████████████████████████████                  │
 │       HACKATHON NAME                                        │
-│       Result  → FINALIST / PARTICIPANT / WINNER             │
-│       Project → PROJECT NAME                                │
-│       Role    → ROLE                                        │
-│                                                              │
-│  [02] ████████████████████████████████████                 │
-│       HACKATHON NAME                                        │
-│       Result  → ...                                         │
-│       Project → ...                                         │
-│                                                              │
-│  [03] ████████████████████████████████████                 │
-│       HACKATHON NAME                                        │
-│       Result  → ...                                         │
-│       Project → ...                                         │
-│                                                              │
-│  [04] ████████████████████████████████████                 │
-│       HACKATHON NAME                                        │
-│       Result  → ...                                         │
-│       Project → ...                                         │
-│                                                              │
-│  [05] ████████████████████████████████████                 │
-│       HACKATHON NAME                                        │
-│       Result  → ...                                         │
-│       Project → ...                                         │
-│                                                              │
-│  [06] ████████████████████████████████████                 │
-│       HACKATHON NAME                                        │
-│       Result  → ...                                         │
-│       Project → ...                                         │
-│                                                              │
-│  [07] ████████████████████████████████████                 │
-│       HACKATHON NAME                                        │
-│       Result  → ...                                         │
-│       Project → ...                                         │
-│                                                              │
+│       Result  → Finalist                                    │
+│       Project → Dhristi AI                                  │
+│       Role    → Network Engineer                            │
+│                                                             │
 └────────────────────────────────────────────────────────────┘
 ```
 
