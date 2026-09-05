@@ -431,16 +431,16 @@ Data / ML
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│                 SECURITY LAB                          │
+│                 SECURITY LAB                         │
 ├──────────────────────────────────────────────────────┤
-│                                                        │
-│  🔎 Network Scanning          [ EXPERIMENTING ]       │
-│  📡 Packet Analysis           [ EXPERIMENTING ]       │
-│  🔐 Authentication            [ LEARNING ]            │
-│  🧪 Security Utilities        [ BUILDING ]            │
-│  🌐 Network Programming       [ LEARNING ]            │
-│  🛡️ Defensive Tooling         [ BUILDING ]            │
-│                                                        │
+│                                                      │
+│  🔎 Network Scanning          [ EXPERIMENTING ]     │
+│  📡 Packet Analysis           [ EXPERIMENTING ]     │
+│  🔐 Authentication            [ LEARNING ]          │
+│  🧪 Security Utilities        [ BUILDING ]          │
+│  🌐 Network Programming       [ LEARNING ]          │
+│  🛡️ Defensive Tooling         [ BUILDING ]          │
+│                                                      │
 └──────────────────────────────────────────────────────┘
 ```
 
